@@ -9,5 +9,5 @@ In this program, the loop condinues running untill the conditon become False, he
 <br>
 2.How condition control program flow.
 <br>
-How to avoid infinite loops.
+3.How to avoid infinite loops.
 
