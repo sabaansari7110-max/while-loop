@@ -1,4 +1,4 @@
-#print multiplication tbale of a given number using while loop
+#print multiplication table of a given number using while loop
 
 n= int(input("enter a number "))
 
@@ -7,4 +7,5 @@ while(i<11):
     print(f"{n} x {i} = {n * i}")
 
     i += 1
+
 
