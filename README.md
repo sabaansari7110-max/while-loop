@@ -11,8 +11,22 @@ In this program, the loop condinues running untill the conditon become False, he
 <br>
 3.How to avoid infinite loops.
 
-#syntax:
+syntax:
 <br>
 while condition:
 <br>
     #codde block
+
+
+Real-Life use caes:
+<br>
+1.Password verification
+<br>
+2.Menu-baased program
+<br>
+3.Game loop
+<br>
+4.Input validation
+<br>
+5.Automation scripts
+
