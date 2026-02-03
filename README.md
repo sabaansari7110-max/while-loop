@@ -11,3 +11,8 @@ In this program, the loop condinues running untill the conditon become False, he
 <br>
 3.How to avoid infinite loops.
 
+#syntax:
+<br>
+while condition:
+<br>
+    #codde block
