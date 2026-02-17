@@ -3,7 +3,7 @@ This project demonstrates the use of the while loop in python.
 <br>
 A while loop is used to repeatedly execute a block of code long as a given condition is Ture.
 <br>
-In this program, the loop condinues running untill the conditon become False, helping to ub=nderstand:
+In this program, the loop condinues running untill the conditon become False, helping to understand:
 <br>
 1.How looping works
 <br>
