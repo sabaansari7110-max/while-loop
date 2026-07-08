@@ -11,14 +11,14 @@ In this program, the loop condinues running untill the conditon become False, he
 <br>
 3.How to avoid infinite loops.
 
-syntax:
-<br>
+# syntax:
+
+```python
 while condition:
-<br>
-    #codde block
+    codde block
+```
 
-
-Real-Life use caes:
+## Real-Life use caes:
 <br>
 1.Password verification
 <br>
